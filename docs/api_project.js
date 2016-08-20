@@ -1,0 +1,15 @@
+define({
+  "name": "1Screen",
+  "version": "0.0.0",
+  "description": "API Documentation",
+  "title": "1Screen API Documentation",
+  "url": "http://localhost:9000/api",
+  "sampleUrl": false,
+  "apidoc": "0.2.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2016-08-20T08:12:50.092Z",
+    "url": "http://apidocjs.com",
+    "version": "0.15.1"
+  }
+});

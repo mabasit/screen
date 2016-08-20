@@ -1,0 +1,5 @@
+node_modules
+.idea
+/server/config/local.env.js
+npm-debug.log
+2015-01-01-15.json
